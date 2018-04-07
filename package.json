@@ -22,7 +22,7 @@
   "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
   "license": "MIT",
   "dependencies": {
-    "html-minifier": "^3.2.3",
+    "html-minifier": "^3.5.14",
     "minimatch": "^3.0.3",
     "object-assign": "^4.1.0"
   },
